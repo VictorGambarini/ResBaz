@@ -1,2 +1,3 @@
-# ResBaz
-ResBaz example python package
+# ResBaz Example Package
+
+This package is an example utilised in the tutorials.
